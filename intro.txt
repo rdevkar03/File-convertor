@@ -1,0 +1,43 @@
+ Good [morning/afternoon], my name is Rohan Devkar. I come from Dharashiv City in Maharashtra, and I have completed my Bachelor of
+  Computer Applications (BCA) from Dr. Babasaheb Ambedkar Marathwada University, Chhatrapati Sambhaji Nagar. During my academic
+  journey, I built a strong foundation in core technologies including Java, Python, SQL, and React.js.
+
+  As part of my academic work, I developed a data visualization tool inspired by Power BI. While working with Power BI, I identified
+  certain bugs and limitations in its data-loading speed, data-cleaning capabilities, and graphical rendering. This motivated me to
+  build a custom tool that could address those issues and offer improved functionality. For the development, I used Python along with
+   its libraries: Pandas for data handling and manipulation, Tkinter for building the user interface, Matplotlib for graphical
+  representations and visual analysis, and NumPy for performing numerical calculations required during the analysis. This project
+  gave me hands-on experience in solving real-world problems by building practical solutions from scratch.
+
+  Currently, I am undergoing PFT training at Cognizant, where I have gained practical exposure to Python, SQL, ETL and Data
+  Warehousing concepts, Informatica PowerCenter, Informatica Intelligent Cloud Services (IICS), and the fundamentals of cloud
+  computing. This training has strengthened my understanding of enterprise-grade data integration and processing workflows.
+
+  During my training, I completed a project titled "Student Report Data Warehouse." I developed this project using Informatica
+  Intelligent Cloud Services along with SQL Server as the relational database. The objective was to design and implement a Data
+  Warehouse for an educational institution that could ingest flat file extracts from source systems and transform them into
+  structured data suitable for analytical reporting.
+
+  The project had several key business requirements. First, source-to-target data integration was needed, which involved fetching
+  data from flat files in CSV format and loading it into the database. Second, the business required creating fact target tables by
+  combining multiple raw data files such as Student_Details, Student_Address, and Student_Marks into a single consolidated fact table
+   to calculate total marks and generate unified student records. Third, the ETL jobs needed to be scheduled for automated execution,
+   with email notifications sent upon job completion to relevant stakeholders.
+
+  During the development, I used several IICS transformations including Joiner for combining datasets, Router for conditional data
+  routing, Union for merging multiple data streams, Expression for computed fields, and Filter for applying business rules to exclude
+   invalid records. Through this implementation, I successfully delivered a scalable and automated ETL solution that populated the
+  Data Warehouse with clean, structured data, enabling the institution to make informed decisions based on student performance
+  analytics.
+
+  Beyond technical skills, I consider myself a quick learner who pays close attention to detail and enjoys working in collaborative
+  team environments. These are qualities I believe will add value to any organization I work with. I am genuinely excited to apply my
+   skills and full effort in a dynamic career where I can continue learning, take on meaningful challenges, and contribute
+  effectively to the team.
+
+  Coming to my hobbies, I enjoy playing cricket, travelling to new places, and reading, as these activities help me stay energized
+  and maintain a balanced perspective. As for an area I am working to improve, I recognize that I sometimes face challenges with
+  communication. However, I am actively working on this by engaging in regular conversations, participating in group discussions, and
+   practicing public speaking to become a more confident and effective communicator.
+
+  Thank you for your time.
